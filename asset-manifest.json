@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/colldesign/static/css/main.6372b890.chunk.css",
+    "main.js": "/colldesign/static/js/main.afe107e5.chunk.js",
+    "main.js.map": "/colldesign/static/js/main.afe107e5.chunk.js.map",
+    "runtime-main.js": "/colldesign/static/js/runtime-main.a4b228ce.js",
+    "runtime-main.js.map": "/colldesign/static/js/runtime-main.a4b228ce.js.map",
+    "static/js/2.0386543c.chunk.js": "/colldesign/static/js/2.0386543c.chunk.js",
+    "static/js/2.0386543c.chunk.js.map": "/colldesign/static/js/2.0386543c.chunk.js.map",
+    "static/js/3.37134e08.chunk.js": "/colldesign/static/js/3.37134e08.chunk.js",
+    "static/js/3.37134e08.chunk.js.map": "/colldesign/static/js/3.37134e08.chunk.js.map",
+    "index.html": "/colldesign/index.html",
+    "static/css/main.6372b890.chunk.css.map": "/colldesign/static/css/main.6372b890.chunk.css.map",
+    "static/js/2.0386543c.chunk.js.LICENSE.txt": "/colldesign/static/js/2.0386543c.chunk.js.LICENSE.txt",
+    "static/media/1.a1ccbf6c.png": "/colldesign/static/media/1.a1ccbf6c.png",
+    "static/media/2.bbd430ea.png": "/colldesign/static/media/2.bbd430ea.png",
+    "static/media/3.8301e95e.png": "/colldesign/static/media/3.8301e95e.png",
+    "static/media/index.css": "/colldesign/static/media/photo_6.e78e057d.jpg",
+    "static/media/Web-Design.7c1b11aa.jpg": "/colldesign/static/media/Web-Design.7c1b11aa.jpg",
+    "static/media/love_is.670d79a4.png": "/colldesign/static/media/love_is.670d79a4.png",
+    "static/media/webDesign.b430c960.png": "/colldesign/static/media/webDesign.b430c960.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4b228ce.js",
+    "static/js/2.0386543c.chunk.js",
+    "static/css/main.6372b890.chunk.css",
+    "static/js/main.afe107e5.chunk.js"
+  ]
+}
