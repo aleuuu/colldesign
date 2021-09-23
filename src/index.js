@@ -1,0 +1,23 @@
+import React from 'react';
+import ReactDOM from 'react-dom';
+import './index.css';
+import App from './App';
+import reportWebVitals from './reportWebVitals';
+import state from './redux/State'
+import {addPost} from './redux/State'
+import {div} from './redux/State'
+import {jopa} from './redux/State'
+
+// addPost('Привет','я дима','митя@mail.ru')
+
+ReactDOM.render(
+  <React.StrictMode>
+    <App state={state} addPost={addPost} text={div} popa={jopa}/>
+  </React.StrictMode>,
+  document.getElementById('root')
+);
+
+// If you want to start measuring performance in your app, pass a function
+// to log results (for example: reportWebVitals(console.log))
+// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
+reportWebVitals();
